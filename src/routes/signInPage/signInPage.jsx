@@ -1,4 +1,4 @@
-import './signinPage.css';
+import './signInPage.css';
 
 const SignInPage = () => {
     return (
